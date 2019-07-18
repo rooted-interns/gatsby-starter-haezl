@@ -32,7 +32,8 @@ interface IIndexProps {
   children: React.ReactNode
 }
 
-interface IHeaderArea {
+interface IHeaderAre {
+
   data: IDataProps
   styles: {
     paddingTop: number
@@ -44,6 +45,11 @@ const HeaderArea = ({ data, styles }: IHeaderArea) => (
   <div
     style={{
       backgroundImage: THEME.index.header.backgroundImage,
+      backgroundPosition: "center",
+      backgroundSize: "cover",
+      backgroundBlendMode: "screen",
+    //  backgroundImage: "rootedclass.png",
+
     }}
   >
     <AboutButton />
