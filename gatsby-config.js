@@ -1,27 +1,27 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Haezl`,
+    title: `Rooted Insights`,
     author: {
-      name: "gatsby starter haezl",
-      image: "/img/me.png",
-      biography: "A lightweight, mobile first blog starter with infinite scroll \
-        and Material-UI design elements for Gatsby.",
+      name: "Rooted Insights",
+      image: "/img/rooted.png",
+      biography: "On this page, we have experiences from Rooted Students that \
+        were involded in our Summer Internship program.",
     },
     // for a list of supported networks take a look at https://jaketrent.github.io/react-social-icons/
     networks: [
-      "https://twitter.com/iamhaezl",
-      "https://github.com/haezl/gatsby-starter-haezl",
-      "mailto:mail@haezl.at",
+      "https://www.rootedschool.org/",
+      "https://github.com/SaidiElle/RootedProjectBlogPost",
+      "mailto:rootedinsights@gmail.com",
     ],
-    about: '<p>A lightweight, mobile first blog starter with infinite scroll \
-    and Material-UI design elements for \
-    <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>. </p> \
-    <p>For a quick start with this starter checkout the \
-    <a href="/posts/get-started/get-started/">Get Started</a> guide. For \
-    an overview of plugins used in this starter have a look at \
-    <a href="/posts/gatsby-plugins/gatsby-plugins/">Plugins</a>. \
-    To see a markdown blog entry in action click \
-    <a href="/posts/markdown/markdown-test/">here</a>. \
+    about: '<p>This page was created with the purpose to enhance  \
+    our coding skills and for students to engage with the content. \
+     </p> \
+    <p>To understand this blog, please check out the first blogs, and if  \
+    you have any questions as to how we did this please feel free to send us an email. \
+    We would like to thank Marcus Carter for helping us and showing us the steps in how to create this. \
+     \
+    If you want to check the documentation for this website, please check \
+    <a href="https://github.com/SaidiElle/RootedProjectBlogPost">here</a>. \
     </p> \
     ',
   },
@@ -69,13 +69,13 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "gatsby-starter-haezl",
-        short_name: "haezl",
+        name: "Rooted Insights",
+        short_name: "rooted",
         start_url: "/",
         background_color: "#eeeeee",
-        theme_color: "#0c9ed1",
+        theme_color: "#529c75",
         display: "standalone",
-        icon: "static/img/me.png",
+        icon: "static/img/rooted.png",
         include_favicon: true,
       },
     },
@@ -109,7 +109,7 @@ module.exports = {
       resolve: `gatsby-plugin-material-ui`,
       options: {
         theme: {
-          primaryColor: "#0c9ed1",
+          primaryColor: "#529c75",
         },
       },
     },

@@ -1,5 +1,5 @@
 ---
-title: "Dutch Lorem Ipsum Article"
+title: "Lucid Internship"
 date: "2019-04-01"
 description: "Witheid bedroeg de er werkten pagoden. Willen te er in en duiken staten bewijs moeite. Kongostaat productief te opgebracht om gewoonlijk verzamelen en al ontginning. Sedert gambir ik te daarna gelden kosten. Aldus juist witte na wezen er wilde in. Maanden hen zoo zou enclave opweegt opzicht die. Open te even heen de naam na rijk pomp er. Gehouden dan eilandje uitmaakt wij. "
 ---
