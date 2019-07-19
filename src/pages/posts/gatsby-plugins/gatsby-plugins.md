@@ -16,4 +16,4 @@ This is the reason why we wanted to do this. We wanted students to understand ev
 
 We want every student at Rooted to share their experience with us, so we can publish it in this blog and help more students in the long run. Also, this blog is not only limited to students with internships, we want all of the students at Rooted to engage with the content. Any student at Rooted can write for this blog as long as it explains us why we should publish it.
 
-We hope to receive an email from you here at [Rooted Insights](rootedinsights@gmail.com) or if you have more ideas on how to make this page or the content more engaging, we would appreciate it very much.
+We hope to receive an email from you here at [Rooted Insights](rootedinsights@gmail.com) about any glitches and bugs on the site and if you have more ideas on how to make this page or the content more engaging, we would appreciate it very much.
