@@ -8,7 +8,7 @@ cover: "blog-post-5.jpg"
 
 ## Rooted Students
 
-This website was created by [Saidi Zelaya](https://github.com/SaidiElle) and Justice Mattews(??I need a link) using a Gatsby framework. We decided to do this because we are both fond of coding, and we wanted a project and a challenge.
+This website was created by [Saidi Zelaya](https://github.com/SaidiElle) and [Justice Matthews](https://github.com/Demonitized) using a Gatsby framework. We decided to do this because we are both fond of coding, and we wanted a project and a challenge.
 
 For some reason every internship that we get is always nerve wracking. As students have so little information, sometimes we ask our teachers questions that they are unable to answer, or we have no idea if we are actually ready for an internship, and more.
 
