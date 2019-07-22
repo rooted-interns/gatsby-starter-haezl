@@ -2,7 +2,6 @@
 title: "Editors and Creators"
 date: "2019-06-09"
 description: "This website was designed by two Rooted Students using a Gatsby Framework. They decided to do this so that their peers could read about their experiences, what to expect, and learn  helpful tips  when applying for an internship. This was solely written by Rooted Students who have the power to edit, and create more engaging content."
-cover: "blog-post-5.jpg"
 
 ---
 

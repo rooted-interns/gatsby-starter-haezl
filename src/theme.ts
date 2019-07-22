@@ -23,7 +23,7 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "url('https://static1.squarespace.com/static/5990c64c03596e7caf60f82c/t/5bc4a900e79c7060b07e9c16/1539614994172/Gigsy%3B+2017-08-08%3B+Rooted+School+First+Day+of+School%3B+083.jpg?format=2500w')",
+      backgroundImage: "/img/rootedclass.png",
       backgroundPosition: "center",
       backgroundSize: "cover",
       backgroundBlendMode: "screen",

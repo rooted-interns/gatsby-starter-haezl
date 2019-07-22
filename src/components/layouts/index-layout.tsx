@@ -47,7 +47,7 @@ const HeaderArea = ({ data, styles }: IHeaderArea) => (
       backgroundPosition: "center",
       backgroundSize: "cover",
       //backgroundBlendMode: "screen",
-    //  backgroundImage: "rootedclass.png",
+      //backgroundImage: "rootedclass.png",
 
     }}
   >
