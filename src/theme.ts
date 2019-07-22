@@ -27,16 +27,7 @@ const THEME = {
       backgroundPosition: "center",
       backgroundSize: "cover",
       backgroundBlendMode: "screen",
-      opacity: "0.6",
-      background: "rgba(0, 0, 0, 0.4)",
-    //  boxshadow: "0px 10px 20px -5px rgba(0,0,0,.8)",
-    //  height: 20,
     },
-    siteMetadata: {
-      
-
-    },
-
 
     aboutButton: {
       color: "white",
