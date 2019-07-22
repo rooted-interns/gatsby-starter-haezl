@@ -2,10 +2,13 @@
 title: "Lucid Internship"
 date: "2019-04-03"
 description: "Hello, my name is Saidi Zelaya. I am a upcoming 11th grader at Rooted School and for my summer of 2019, the school gave me an opportunity to have an internship at Lucid, a tech company in New Orleans."
+cover: "saidiblobpost.jpg"
 ---
 
+Hi again, my name is Saidi. As I said before, Rooted
+
 My internship at Lucid has been splendid so far! At first I remembered that we did research about what Lucid does, the concept was still confusing however we got the hang of everything when we got there.
-Lucid helps connect companies with real human answers on a global scale. Lucid does so with surveys, they have surveys before the actual survey of the company. The survey is called a prescrenner, the prescreener asks the suppliers questions related to what kind of people the company is looking for. The whole Lucid work is now very understandable to me.
+Lucid helps connect companies with real human answers on a global scale. Lucid does so with surveys, they have surveys before the actual survey of the company. The survey is called a pre-screener, the pre-screener asks the suppliers questions related to what kind of people the company is looking for. The whole Lucid work is now very understandable to me.
 
 As for what we were doing, at first Marcus told us about a page that they were trying to find bugs so that it is ready for them to move all their surveys data. So at first we were finding bugs within the website, then write a whole process on how we found them. However, the process was getting boring. We did acquire a lot of information and I am glad for that. We now know a lot of information and how it is to work at an office. By the second week, we were introduced to the project that Justice and I were going to work on. The project included understanding how to work with the terminal, git hub, gatsby(which is a static Progressive web app generator.), and many other coding programs. We now understand how to host a webpage and how to put it into the web, we understand that now we don’t actually need to understand every piece of coding to create our own website.
 
