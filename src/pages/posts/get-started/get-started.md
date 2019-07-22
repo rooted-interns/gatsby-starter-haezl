@@ -1,44 +1,13 @@
 ---
-title: "Get started"
-date: "2019-04-11"
-description: "This blog entry is meant to provide a Readme on how to get up and running with this gatsby starter"
-cover: "ideas-start-here.jpg"
+title: "Rooted Internship Program"
+date: "2019-04-10"
+description: "Our students were stationed amongst our partners throughout New Orleans and applied their knowledge from school into the real world. They may have faced many challenges, but in the end they overpowered their resistance. In 2018, students interned and volunteered with Electric Girls, Code Nola, and Entrescan. For our second year, some students received hands on help with Entrescan. While other students interned in companies such as Search Influence and Lucid."
+cover: "internshiprogram.jpeg"
 ---
 
-## Quick Start
 
-Follow the Quick Start instructions outlined in the **[README](https://github.com/haezl/gatsby-starter-haezl "README.md")** in the root of the project.
+## Internships
+When Rooted first opened, all of the students were offered many opportunities that included internships in tech companies that will eventually achieve our goal of financial freedom.
+ As high school students, we took certifications that many adults take in their college years such as Autodesk Inventor for 3D printing, Frond End Web Design, Inbound Sales, and many more. Every Rooted Student in their first year earn at least two certifications.
 
-## Add blog posts
-
-Blog Posts are stored in seperate subfolders under `src/pages/posts`.
-
-In order to create a new post navigate to `src/pages/posts` and:
-
-- Create a new subfolder
-- Create a markdown file (e.g. your-file.md)
-- Optionally copy a header image to the subfolder
-- Optionally copy further images you want to use in your blog post to the subfolder
-- In your markdown file, add your HTML or plain text content (for a reference take a look at the markdown blog post)
-- In your markdown file, add the following header. (Note that the cover is optionally):
-
-```
----
-title: "Your title"
-date: "2019-04-30"
-description: "Your description"
-cover: "your-optionally-header-image.jpg"
----
-```
-
-## Index page
-
-In order to change the content displayed in the header section of the index page update the site metadata in `gatsby-config.ts` located in the root of this project and copy your image into `static/img` folder.
-
-The look and feel can be changed as described in [Theming](#theming)
-
-## About page
-
-## Theming
-
-In order to change the look and feel of the blog you can configure specific settings in `theme.ts` located in the `src` folder of this project.
+Asides from the certifications, the school also offers internship opportunities and suggestions to those students who want to excel and seek their own paths. This year alone, Rooted offered three different internships at Tech companies such as Search Influence, Entrescan, and Lucid. We felt as though the students should understand the experience as well as parents, this blog contains many written experience done by our peers giving us an explanation to what it is like at the internship, and if it is worth the try.

@@ -5,8 +5,8 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     showMoreButton: {
-      color: "#059ce2",
-      borderColor: "#059ce2",
+      color: "#6d8f7f",
+      borderColor: "#6d8f7f",
       backgroundColor: "none",
       width: 130,
     },
@@ -14,7 +14,7 @@ const THEME = {
   blogListElement: {
     avatar: {
       color: "none",
-      backgroundColor: "#059ce2",
+      backgroundColor: "#739485",
     },
   },
   index: {
@@ -23,8 +23,12 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "linear-gradient(20deg, #039be5, #26a69a)",
+      backgroundImage: "/img/rootedclass.png",
+      backgroundPosition: "center",
+      backgroundSize: "cover",
+      //backgroundBlendMode: "screen",
     },
+
     aboutButton: {
       color: "white",
       borderColor: "white",
@@ -34,17 +38,19 @@ const THEME = {
   },
   author: {
     avatar: {
-      width: 70,
-      height: 70,
+      width: 350,
+      height: 100,
     },
     title: {
-      color: "white",
-      fontSize: 30,
+      color: "696969",
+      fontSize: 45,
+      fontweight: 900,
     },
     desc: {
-      color: "white",
-      fontSize: 20,
+      color: "696969",
+      fontSize: 27,
       maxWidth: 500,
+      fontweight: "900",
     },
   },
   callToActionButton: {
@@ -52,7 +58,7 @@ const THEME = {
     height: 25,
   },
   fabButton: {
-    color: "#059ce2",
+   color: "#6d8f7f",
     backgroundColor: "white",
   },
   networkButton: {

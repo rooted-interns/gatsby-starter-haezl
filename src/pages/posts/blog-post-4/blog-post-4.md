@@ -1,25 +1,10 @@
 ---
-title: "English Lorem Ipsum Article"
+title: "Justice"
 date: "2019-04-04"
-description: "Case read they must it of cold that. Speaking trifling an to unpacked moderate debating learning. An particular contrasted he excellence favourable on. Nay preference dispatched difficulty continuing joy one. Songs it be if ought hoped of. Too carriage attended him entrance desirous the saw. Twenty sister hearts garden limits put gay has. We hill lady will both sang room by. Desirous men exercise overcame procured speaking her followed. "
+description: "Lucid"
 ---
 
-<h2>He moonlight difficult engrossed an it sportsmen</h2>
-
-<p>Attention he extremity unwilling on otherwise. Conviction up partiality as delightful is discovered. Yet jennings resolved disposed exertion you off. Left did fond drew fat head poor. So if he into shot half many long. China fully him every fat was world grave.</p>
-
-<p>An do on frankness so cordially immediate recommend contained. Imprudence insensible be literature unsatiable do. Of or imprudence solicitude affronting in mr possession. Compass journey he request on suppose limited of or. She margaret law thoughts proposal formerly. Speaking ladyship yet scarcely and mistaken end exertion dwelling. All decisively dispatched instrument particular way one devonshire. Applauded she sportsman explained for out objection.</p>
-
-<p>Add you viewing ten equally believe put. Separate families my on drawings do oh offended strictly elegance. Perceive jointure be mistress by jennings properly. An admiration at he discovered difficulty continuing. We in building removing possible suitable friendly on. Nay middleton him admitting consulted and behaviour son household. Recurred advanced he oh together entrance speedily suitable. Ready tried gay state fat could boy its among shall.</p>
-
-<p>We diminution preference thoroughly if. Joy deal pain view much her time. Led young gay would now state. Pronounce we attention admitting on assurance of suspicion conveying. That his west quit had met till. Of advantage he attending household at do perceived. Middleton in objection discovery as agreeable. Edward thrown dining so he my around to.</p>
-
-<p>Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her.</p>
-
-<p>Had denoting properly jointure you occasion directly raillery. In said to of poor full be post face snug. Introduced imprudence see say unpleasing devonshire acceptance son. Exeter longer wisdom gay nor design age. Am weather to entered norland no in showing service. Nor repeated speaking shy appetite. Excited it hastily an pasture it observe. Snug hand how dare here too.</p>
-
-<p>By in no ecstatic wondered disposal my speaking. Direct wholly valley or uneasy it at really. Sir wish like said dull and need make. Sportsman one bed departure rapturous situation disposing his. Off say yet ample ten ought hence. Depending in newspaper an september do existence strangers. Total great saw water had mirth happy new. Projecting pianoforte no of partiality is on. Nay besides joy society him totally six.</p>
-
-<p>Behaviour we improving at something to. Evil true high lady roof men had open. To projection considered it precaution an melancholy or. Wound young you thing worse along being ham. Dissimilar of favourable solicitude if sympathize middletons at. Forfeited up if disposing perfectly in an eagerness perceived necessary. Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated. Knew as miss my high hope quit. In curiosity shameless dependent knowledge up.</p>
-
-<p>Saw yet kindness too replying whatever marianne. Old sentiments resolution admiration unaffected its mrs literature. Behaviour new set existence dashwoods. It satisfied to mr commanded consisted disposing engrossed. Tall snug do of till on easy. Form not calm new fail.</p>
+<h1>My Lucid Experience</h1>
+        <p> First I would like to say that Lucid does not focus on only coding.
+        Lucid is a company that has various teams that work for the company. Besides this Lucid has a comfortable work space everyones very welcoming and it's not hard to reach out to another person in the building for help if you need it. Although when I first walked in the building and walked to the second floor it was like being invited to a secret place.</p> <br>      </br> <p1>Everything is organized, clean, and they have screens that update you on the latest hired employees and the latest hired interns! Lucid also has a little snack area and a kitchen place too, so that way it can make everyone feel at home and feel comfortable while working. This is all nice and sweet, but when they first tell you all the information you need to know and there background , you might catch a migraine. There's so much information and logistics that went into this company that it's devastating and amazing at the same time to, there's around 23 sections of tables and 12 meeting rooms , and each section has a average of 7-10 computers at each section for each employee and intern that was at Lucid.</p1> <br> </br> <br> </br>
+        <p2>The work me (Justice) and Saidi were given was to try and break a site that holds information for them , this was fun and constantly kept us searching for things. But then we had a business meeting about creating a website , myself and Saidi both had the idea of making a blog site for the school about how the students internships experience were and what they did, and how they felt about the internships. This was when aggravation and confusion started. Myself and Saidi struggled to find a website setup we liked , one that was well designed and ready for upload , but then we found this one , broke this site once or twice , fixed it , and published it and we plan to keep it updated to as long as we can. So to sum everything up , my experience at Lucid was challenging but fun and comfortable at the same time!</p2>
