@@ -2,7 +2,7 @@
 title: "Lucid Internship"
 date: "2019-04-03"
 description: "Hello, my name is Saidi Zelaya. I am a upcoming 11th grader at Rooted School and for my summer of 2019, the school gave me an opportunity to have an internship at Lucid, a tech company in New Orleans."
-cover: "saidiblobpost.jpg"
+cover: "saidiblobpost.jpeg"
 ---
 
 Hi again, my name is Saidi. As I said before, Rooted
