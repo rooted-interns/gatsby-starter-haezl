@@ -26,7 +26,7 @@ const THEME = {
       backgroundImage: "/img/rootedclass.png",
       backgroundPosition: "center",
       backgroundSize: "cover",
-      backgroundBlendMode: "screen",
+      //backgroundBlendMode: "screen",
     },
 
     aboutButton: {
