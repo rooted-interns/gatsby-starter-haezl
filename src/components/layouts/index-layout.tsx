@@ -32,8 +32,7 @@ interface IIndexProps {
   children: React.ReactNode
 }
 
-interface IHeaderAre {
-
+interface IHeaderArea {
   data: IDataProps
   styles: {
     paddingTop: number
