@@ -1,7 +1,8 @@
 ---
-title: "Justice"
-date: "2019-04-04"
-description: "Lucid"
+title: "Lucid InternShip"
+date: "2019-06-22"
+description: "Hello my name is Justice Matthews I , as well as my coworker Saidi, are both interning at Lucid and we are both upcoming 11th graders that have created this site  "
+cover: "justiceblogpost.jpg"
 ---
 
 <h1>My Lucid Experience</h1>
