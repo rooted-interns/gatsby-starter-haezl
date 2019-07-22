@@ -1,7 +1,8 @@
 ---
 title: "Lucid InternShip"
 date: "2019-04-04"
-description: "Sup, the names Justice and on this part of the site I will be explaining my experience of interning at Lucid, one of the company's inside of New Orleans. "
+description: "Hello my name is Justice Matthews I , as well as my coworker Saidi, are both interning at Lucid and we are both upcoming 11th graders that have created this site  "
+cover: "/files-pri/T025896EW-FLMU81DAQ/image_from_ios.jpg"
 ---
 
 <h1>My Lucid Experience</h1>
