@@ -1,7 +1,7 @@
 ---
-title: "Justice"
+title: "Lucid InternShip"
 date: "2019-04-04"
-description: "Lucid"
+description: "Sup, the names Justice and on this part of the site I will be explaining my experience of interning at Lucid, one of the company's inside of New Orleans. "
 ---
 
 <h1>My Lucid Experience</h1>
