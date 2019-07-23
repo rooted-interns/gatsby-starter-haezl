@@ -1,7 +1,5 @@
 ---
-title: "Jalen"
+title: "Entrescan Experience"
 date: "2019-04-07"
-description: "Entrescan Experience"
+description: "Hello my name is Jalen and I interned with Entrescan"
 ---
-
---on hold, he'll send his writing on Saturday.
