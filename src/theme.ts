@@ -46,10 +46,10 @@ const THEME = {
       fontweight: 900,
     },
     desc: {
-      color: "#696969",
+      color: "black",
       fontSize: 26,
       maxWidth: 500,
-    //  fontweight: "bold",
+     fontweight: 900,
     },
   },
   callToActionButton: {
