@@ -5,6 +5,7 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     showMoreButton: {
+      textShadow: "none",
       color: "#6d8f7f",
       borderColor: "#6d8f7f",
       backgroundColor: "none",

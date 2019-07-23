@@ -76,6 +76,7 @@ module.exports = {
         theme_color: "#529c75",
         display: "standalone",
         icon: "static/img/rooted.png",
+        box-shadow: none,
         include_favicon: true,
       },
     },
