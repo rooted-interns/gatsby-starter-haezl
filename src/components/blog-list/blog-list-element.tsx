@@ -29,15 +29,16 @@ export default ({ data }: IBlogListElement) => (
           style={{
             textDecoration: "none",
             color: "inherit",
+    
           }}
         >
           <CardHeader
             avatar={
               <Avatar
-                style={{ 
+                style={{
                   backgroundColor: THEME.blogListElement.avatar.backgroundColor,
-                  color: THEME.blogListElement.avatar.color, 
-                  textShadow: "none" 
+                  color: THEME.blogListElement.avatar.color,
+                  textShadow: "none"
                 }}
               >
                 {data.title.charAt(0).toUpperCase()}
