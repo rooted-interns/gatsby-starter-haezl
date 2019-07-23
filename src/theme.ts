@@ -24,16 +24,14 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "/img/rootedclass.png",
-      backgroundPosition: "center",
-      backgroundSize: "cover",
-      //backgroundBlendMode: "screen",
+     backgroundImage: "url('rootedclass.png')",
     },
 
     aboutButton: {
-      color: "white",
-      borderColor: "white",
+      color: "#FFFFFF",
+      borderColor: "rgb(126, 158, 135)",
       backgroundColor: "none",
+      borderRadius: 2,
       width: 100,
     },
   },

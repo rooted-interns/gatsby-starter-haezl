@@ -46,9 +46,6 @@ const HeaderArea = ({ data, styles }: IHeaderArea) => (
       backgroundImage: THEME.index.header.backgroundImage,
       backgroundPosition: "center",
       backgroundSize: "cover",
-      //backgroundBlendMode: "screen",
-      //backgroundImage: "rootedclass.png",
-
     }}
   >
     <AboutButton />

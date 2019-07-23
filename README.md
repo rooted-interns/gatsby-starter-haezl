@@ -23,7 +23,7 @@ for <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
 - Just Inline Styling
 - Customizeable
 - Theming
-- Posts in Markdown with
+- Posts n Markdown with
   - Code syntax highlighting
   - HTML
   - Headings
