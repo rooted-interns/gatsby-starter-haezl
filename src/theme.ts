@@ -23,10 +23,7 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "/img/rootedclass.png",
-      backgroundPosition: "center",
-      backgroundSize: "cover",
-      //backgroundBlendMode: "screen",
+     backgroundImage: "url('rootedclass.png')",
     },
 
     aboutButton: {
