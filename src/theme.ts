@@ -27,9 +27,10 @@ const THEME = {
     },
 
     aboutButton: {
-      color: "white",
-      borderColor: "white",
+      color: "#FFFFFF",
+      borderColor: "rgb(126, 158, 135)",
       backgroundColor: "none",
+      borderRadius: 2,
       width: 100,
     },
   },
